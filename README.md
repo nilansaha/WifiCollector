@@ -1,7 +1,11 @@
 # WifiCollector
 
-Scrapes wifi passwords saved in local machine without any UAC Prompt
+WifiCollector is a python script to scrape wireless passwords saved in the local windows machine
 
-Passwords are displayed in the following format
+### Usage
 
-SSID:Password
+Open cmd and type the following, then press enter
+
+```
+python wificollector.py
+```
