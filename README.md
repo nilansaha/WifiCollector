@@ -1,6 +1,6 @@
 # WifiCollector
 
-WifiCollector is a python script to scrape wireless passwords saved in the local windows machine
+WifiCollector is a python script to scrape wireless passwords saved in the local windows machine without any UAC prompt
 
 ### Usage
 
